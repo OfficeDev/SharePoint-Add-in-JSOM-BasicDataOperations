@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3b6dacf8-e276-4d19-b43b-c1969512c204" solutionId="3b6dacf8-e276-4d19-b43b-c1969512c204" resetWebServer="false" sharePointProductVersion="15.0" name="BasicTasksApp" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="0f2e6ea2-9ffc-4b47-a168-a1331929f1f0" />
+  </features>
+</package>

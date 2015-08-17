@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
+     Name="SharePointAddinJSOMBasicDataOperations"
+     ProductID="{c27a7f37-f758-4c64-afc5-708cf0269191}"
+     Version="1.0.0.0"
+     SharePointMinVersion="15.0.0.0">
+  
+  <Properties>
+    <Title>SharePoint-Add-in-JSOM-BasicDataOperations</Title>
+    <StartPage>~appWebUrl/Pages/BasicTasksJSOM.html?{StandardTokens}</StartPage>
+  </Properties>
+
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+
+<AppPermissionRequests></AppPermissionRequests></App>
