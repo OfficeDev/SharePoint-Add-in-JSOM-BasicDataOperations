@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- SharePoint
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 8/17/2015 3:57:19 PM
+---
 # Basic CRUD operations in SharePoint Add-ins using the JavaScript object model (JSOM) APIs #
 
 ## Summary
