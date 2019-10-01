@@ -11,7 +11,8 @@ extensions:
   - Add-ins
   createdDate: 8/17/2015 3:57:19 PM
 ---
-# Basic CRUD operations in SharePoint Add-ins using the JavaScript object model (JSOM) APIs #
+
+# Basic CRUD operations in SharePoint Add-ins using the JavaScript object model (JSOM) APIs
 
 ## Summary
 Use the SharePoint JavaScript object model (JSOM) to perform create, read, update, and delete operations on website properties, lists, and list items from a SharePoint Add-in.
@@ -19,7 +20,6 @@ Use the SharePoint JavaScript object model (JSOM) to perform create, read, updat
 ### Applies to ###
 -  SharePoint Online and on-premise SharePoint 2013 and later 
 
-----------
 ## Prerequisites ##
 This sample requires the following:
 
